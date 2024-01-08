@@ -76,6 +76,7 @@ body{
 }
 
 .nav-link  {
+    cursor: pointer;
     margin-right: 2rem;
     
 }
@@ -661,6 +662,16 @@ border-radius: 15px;
 .reach-top{
     margin-top: 6rem;
 }
+
+.article-text h6{
+    font-size: 15px;
+}
+
+.article-image img{
+    width: 100%;
+}
+
+
 
 
 
